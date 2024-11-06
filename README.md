@@ -42,8 +42,3 @@ The final regression model showed promising results, with an R-squared value of 
 This project illustrates the potential of regression models in the healthcare domain for disease prediction. By analyzing different clinical features, we can derive meaningful insights and support medical professionals in their decision-making processes.
 
 Feel free to contribute, raise issues, or fork this project to expand its capabilities!
-
-## License
-This project is licensed under the MIT License.
-
-
